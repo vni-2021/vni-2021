@@ -1,4 +1,8 @@
-### Hi there 👋
+### VNI: Virtualization for Enabling Next-Generation IoT Networks
+
+## Workshop co-located with 
+
+### IEEE International Conference on High Performance Switching and Routing (IEEE HPSR) 2021
 
 <!--
 **vni-2021/vni-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
