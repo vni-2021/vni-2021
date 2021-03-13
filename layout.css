@@ -1,0 +1,91 @@
+.container {
+  width: 1214px;
+  margin-top: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+}
+#header {
+  height: 100px;
+  background: left top repeat-x #fff;
+}
+#header,
+#content,
+#extra-content,
+#footer {
+  font-size: 0.75em;
+}
+.col-1,
+.col-2,
+.col-3 {
+  float: left;
+}
+/* index.html */
+#page1 #content .col-1 {
+  width: 302px;
+  margin-right: 22px;
+}
+#page1 #content .col-2 {
+  width: 302px;
+  margin-right: 22px;
+}
+#page1 #content .col-3 {
+  width: 302px;
+}
+#page1 #extra-content .col-1 {
+  width: 464px;
+  margin-right: 22px;
+}
+#page1 #extra-content .col-2 {
+  width: 464px;
+}
+/* index-2.html */
+#page3 #content .col-1 {
+  width: 302px;
+  margin-right: 22px;
+}
+#page3 #content .col-2 {
+  width: 302px;
+  margin-right: 22px;
+}
+#page3 #content .col-3 {
+  width: 302px;
+}
+/* index-4.html */
+#page5 #content .col-1 {
+  width: 302px;
+  margin-right: 22px;
+}
+#page5 #content .col-2 {
+  width: 626px;
+}
+/* index-5.html */
+#page6 #content .col-1 {
+  width: 302px;
+  margin-right: 22px;
+}
+#page6 #content .col-2 {
+  width: 302px;
+  margin-right: 22px;
+}
+#page6 #content .col-3 {
+  width: 302px;
+}
+/*#footer {background:url(images/footer-bg.gif) left top repeat-x #717171}*/
+
+#list p {
+  font: normal 1em Arial, Helvetica, sans-serif;
+  color: #000;
+  type: 1;
+  border-left: solid 1px #999;
+  border-bottom: solid 1px #999;
+  margin-bottom: 0px;
+  padding: 0.5em 0.5em 0.5em 1em;
+}
+ol#list {
+  font: normal 1em Arial, Helvetica, sans-serif;
+  list-style-type: decimal;
+  text-align: justify;
+
+  padding: 0.5em 0.5em 0.5em 1em;
+}
